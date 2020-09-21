@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="error_name">Error! Try Again</string>
+    <string name="hint_name">Username</string>
+    <string name="btn_get">Submit</string>
+    <string name="dot">...</string>
+    <string name="stars">Stars:</string>
+    <string name="owner">Owner:</string>
+    <string name="open_issue">Open Issues:</string>
+</resources>
